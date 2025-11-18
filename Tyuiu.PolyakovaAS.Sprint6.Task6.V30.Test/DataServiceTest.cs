@@ -1,4 +1,4 @@
-﻿namespace Tyuiu.PolyakovaAS.Sprint6.Task5.V28.Test
+﻿namespace Tyuiu.PolyakovaAS.Sprint6.Task6.V30.Test
 {
     [TestClass]
     public sealed class DataServiceTest
@@ -10,5 +10,3 @@
         }
     }
 }
-
-
